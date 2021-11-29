@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header-wrapper {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    padding: 15px 190px;
+    height: 10vh;
+}
+
+.nav_list {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.nav_list > li {
+    display: inline-block;
+}
+
+.logo {
+    display: inline-block;
+    margin: 0 380px 0 80px;
+}
+
+.links {
+    display: inline-block;
+    margin: 20px;
+    padding-left: 300px;
+}
+
+links.img {
+    margin-right: 20px;
+}
+
+.links-find {
+    padding-left: 20px;
+}
+
+.links-cart {
+    padding-left: 20px;
+}
+
+.nav_list-collections {
+    padding-left: 30px;
+}
+
+.nav_list-guide {
+    padding-left: 30px;
+}
+
+.nav_list-stories {
+    padding-left: 30px;
+}
+
+.main-page {
+    height: 90vh;
+    background-color: #F0EFEB;
+}
+
+.guides {
+    height: 100vh;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    display: inline-block;
+    font-size: 60px;
+    margin: 0 20px 40px 190px;
+    padding-top: 190px;
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    display: inline-block;
+    font-size: 24px;
+    margin: 0px 80px 20px 190px;
+    padding: 20 50px 0 0;
+}
+
+.button {
+    background-color: #000;
+    border-radius: 100px;
+    height: 36px;
+    width: 130px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    border: none;
+    margin-right: 150px;
+    margin-left: 190px;
+    margin-bottom: 10px;
+}
+
+.main-content-wrapper {
+    display: inline-block;
+    position: relative;
+    margin-left:300px;
+    margin-top:-400px;
+    padding-left: 250px;
+    position: absolute;
+} 
